@@ -27,13 +27,19 @@
 
 <img width="759" height="638" alt="Screenshot 2025-11-19 195358" src="https://github.com/user-attachments/assets/b27c30ae-94d8-4f7b-a2d4-d012765e03ea" />
 
+
+
 <img width="1234" height="329" alt="image" src="https://github.com/user-attachments/assets/49154ef8-90be-4c47-b478-27ffe0c11f9d" />
+
 
 <img width="1024" height="315" alt="image" src="https://github.com/user-attachments/assets/6fe94762-eb46-4a2d-a6f1-a01d07a4c681" />
 
+
 <img width="854" height="244" alt="image" src="https://github.com/user-attachments/assets/3badd100-d5af-41ef-9b92-c9e9d7ccf49e" />
 
+
 <img width="1207" height="308" alt="image" src="https://github.com/user-attachments/assets/bc560811-420b-46b2-8421-7e1dbf897bca" />
+
 
 # Program (VERILOG CODE WITH TESTBENCH):
 ```
@@ -183,5 +189,26 @@ endmodule
 <img width="1919" height="1199" alt="Screenshot 2025-11-19 142209" src="https://github.com/user-attachments/assets/092cb371-f880-42f2-89b9-082417c8da68" />
 
 
+<img width="1682" height="597" alt="image" src="https://github.com/user-attachments/assets/b0a894dc-edc3-469d-af57-e978f467ab95" />
 
-  
+
+# Additional Features Included:
+
+   ✔ Overload Safety
+   ✔ Door Re-open Button
+   ✔ Emergency Stop
+   ✔ Idle Parking Mode (auto return to Floor 0
+
+# RESULT:
+ Thus, The 4-floor elevator controller was successfully implemented and simulated using Verilog HDL.
+
+# Conclusion:
+This project successfully designs a complete digital elevator controller using:
+```
+ > FSM logic
+ > Timing control
+ > Verilog HDL
+ > Vivado simulation
+ > Spartan-7 FPGA deployment
+It demonstrates a practical real-world embedded digital logic system.
+```

@@ -20,37 +20,19 @@
 
 # Block Diagram:
 
-```
-INPUT INTERFACE
-Floor Request Buttons
-(request[3:0])
-Reset, Clock
-      |
-      v
-FSM CONTROLLER
-State Machine
-Decision Logic
-Request Handler
-      |
-      v
-TIMER CONTROL
-Door Open Timer
-Counter Logic
-      |
-      v
-OUTPUT INTERFACE
-Current Floor Display
-Motor Direction
-Door Status
-```
+
 <img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/af29f18b-44a4-4209-87f7-270f6e90c5e5" />
 
 # State Description:
 
 <img width="759" height="638" alt="Screenshot 2025-11-19 195358" src="https://github.com/user-attachments/assets/b27c30ae-94d8-4f7b-a2d4-d012765e03ea" />
+
 <img width="1234" height="329" alt="image" src="https://github.com/user-attachments/assets/49154ef8-90be-4c47-b478-27ffe0c11f9d" />
+
 <img width="1024" height="315" alt="image" src="https://github.com/user-attachments/assets/6fe94762-eb46-4a2d-a6f1-a01d07a4c681" />
+
 <img width="854" height="244" alt="image" src="https://github.com/user-attachments/assets/3badd100-d5af-41ef-9b92-c9e9d7ccf49e" />
+
 <img width="1207" height="308" alt="image" src="https://github.com/user-attachments/assets/bc560811-420b-46b2-8421-7e1dbf897bca" />
 
 # Program (VERILOG CODE WITH TESTBENCH):

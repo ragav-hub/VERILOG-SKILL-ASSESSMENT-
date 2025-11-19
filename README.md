@@ -3,12 +3,12 @@
 # Real-world Context:
  Elevators use digital control logic for floor selection, movement, and door automation.
  Digitally, this is implemented using:
- 
+ ```
   1.Finite State Machines (FSMs)
   2.Timers based on system clocks
   3.Clean input processing (debouncing)
   4.Display units (LED/7-segment)
-
+```
 # Project Objective:
   To Design a 4-floor elevator controller that responds to floor requests, controls motor direction, and operates doors with timing.
 

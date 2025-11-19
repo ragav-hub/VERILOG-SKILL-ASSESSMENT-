@@ -1,4 +1,4 @@
-# 4-floor Elevator Controller
+# 4-Floor Elevator Controller
 
 # Real-world Context:
  Elevators use digital control logic for floor selection, movement, and door automation.

@@ -3,12 +3,12 @@
 # Real-world Context:
  Elevators use digital control logic for floor selection, movement, and door automation.
  Digitally, this is implemented using:
- ```
+ 
   1.Finite State Machines (FSMs)
   2.Timers based on system clocks
   3.Clean input processing (debouncing)
   4.Display units (LED/7-segment)
-```
+
 # Project Objective:
   To Design a 4-floor elevator controller that responds to floor requests, controls motor direction, and operates doors with timing.
 
@@ -32,10 +32,16 @@
 <img width="1234" height="329" alt="image" src="https://github.com/user-attachments/assets/49154ef8-90be-4c47-b478-27ffe0c11f9d" />
 
 
+
+
 <img width="1024" height="315" alt="image" src="https://github.com/user-attachments/assets/6fe94762-eb46-4a2d-a6f1-a01d07a4c681" />
 
 
+
+
 <img width="854" height="244" alt="image" src="https://github.com/user-attachments/assets/3badd100-d5af-41ef-9b92-c9e9d7ccf49e" />
+
+
 
 
 <img width="1207" height="308" alt="image" src="https://github.com/user-attachments/assets/bc560811-420b-46b2-8421-7e1dbf897bca" />
@@ -193,12 +199,12 @@ endmodule
 
 
 # Additional Features Included:
-
+```
    ✔ Overload Safety
    ✔ Door Re-open Button
    ✔ Emergency Stop
    ✔ Idle Parking Mode (auto return to Floor 0
-
+```
 # RESULT:
  Thus, The 4-floor elevator controller was successfully implemented and simulated using Verilog HDL.
 
